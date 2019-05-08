@@ -54,7 +54,7 @@
             "browserTarget": "angular-tabs:build"
           },
           "configurations": {
-            "production": {
+            "prod": {
               "browserTarget": "angular-tabs:build:production"
             }
           }
@@ -109,7 +109,7 @@
             "devServerTarget": "angular-tabs:serve"
           },
           "configurations": {
-            "production": {
+            "prod": {
               "devServerTarget": "angular-tabs:serve:production"
             }
           }
