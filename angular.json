@@ -29,7 +29,7 @@
             "scripts": []
           },
           "configurations": {
-            "prod": {
+            "production": {
               "fileReplacements": [
                 {
                   "replace": "src/environments/environment.ts",
@@ -54,7 +54,7 @@
             "browserTarget": "angular-tabs:build"
           },
           "configurations": {
-            "prod": {
+            "production": {
               "browserTarget": "angular-tabs:build:production"
             }
           }
@@ -109,7 +109,7 @@
             "devServerTarget": "angular-tabs:serve"
           },
           "configurations": {
-            "prod": {
+            "production": {
               "devServerTarget": "angular-tabs:serve:production"
             }
           }
